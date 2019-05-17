@@ -2,7 +2,7 @@
 title: React状态管理与同构实践————学习成果
 date: 2019-03-31
 author: 朱港回
-range: 1.1-2.2
+range: 1.1-2.10
 ---
 
 # React 前端扫盲
